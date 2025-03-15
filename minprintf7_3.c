@@ -1,6 +1,6 @@
 
 #include <stdarg.h> 
-#include <iostream>
+#include <stdio.h>
 
 /* contains a set of macro definitions that define how to step through an argument list 
 va_list is used to declare a variable that will refer to each argument in turn

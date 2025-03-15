@@ -5,7 +5,7 @@
 of constatn integer values, and branches accordingly. The label default is optional and is executed if none of 
 the other cases are satisfied.*/
 
-main() //counts digits, white spaces and others
+int main() //counts digits, white spaces and others
 {
     int c, i, nwhite, nother, ndigit[10];
 
